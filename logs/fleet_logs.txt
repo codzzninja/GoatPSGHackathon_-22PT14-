@@ -1,0 +1,33 @@
+2025-03-30 22:35:29,278 - FleetManager - INFO - Spawned robot 0 at vertex 10
+2025-03-30 22:35:36,356 - Robot_0 - INFO - Assigned task: moving to 6 via path [10, 0, 4, 5, 11, 6]
+2025-03-30 22:35:49,960 - FleetManager - INFO - Spawned robot 1 at vertex 3
+2025-03-30 22:36:00,085 - Robot_0 - INFO - Assigned task: moving to 8 via path [6, 7, 12, 8]
+2025-03-30 22:36:13,387 - Robot_0 - INFO - Assigned task: moving to 13 via path [8, 9, 2, 13]
+2025-03-30 22:36:17,257 - Robot_1 - INFO - Assigned task: moving to 7 via path [3, 1, 10, 0, 4, 5, 11, 6, 7]
+2025-03-30 22:36:25,049 - FleetManager - INFO - Spawned robot 2 at vertex 3
+2025-03-30 22:36:39,479 - Robot_0 - INFO - Assigned task: moving to 13 via path [13]
+2025-03-30 22:36:49,878 - Robot_2 - INFO - Assigned task: moving to 2 via path [3, 13, 2]
+2025-03-30 22:36:53,440 - FleetManager - ERROR - No valid path from 13 to 2
+2025-03-30 22:39:44,820 - FleetManager - INFO - Spawned robot 0 at vertex 10
+2025-03-30 22:39:51,384 - Robot_0 - INFO - Assigned task: moving to 7 via path [10, 0, 4, 5, 11, 6, 7]
+2025-03-30 22:39:55,158 - FleetManager - INFO - Spawned robot 1 at vertex 3
+2025-03-30 22:39:59,634 - FleetManager - ERROR - No valid path from 3 to 6
+2025-03-30 22:40:11,739 - Robot_1 - INFO - Assigned task: moving to 11 via path [3, 1, 10, 0, 4, 5, 11]
+2025-03-30 22:40:30,874 - Robot_0 - INFO - Assigned task: moving to 9 via path [7, 12, 8, 9]
+2025-03-30 22:40:47,090 - Robot_0 - INFO - Assigned task: moving to 1 via path [9, 2, 13, 3, 1]
+2025-03-30 22:40:51,706 - FleetManager - INFO - Spawned robot 2 at vertex 7
+2025-03-30 22:52:53,775 - FleetManager - INFO - Spawned robot 0 at vertex 10
+2025-03-30 22:52:59,280 - Robot_0 - INFO - Assigned task: moving to 6 via path [10, 0, 4, 5, 11, 6]
+2025-03-30 22:53:12,903 - FleetManager - INFO - Spawned robot 1 at vertex 3
+2025-03-30 22:53:19,259 - Robot_1 - INFO - Assigned task: moving to 5 via path [3, 1, 10, 0, 4, 5]
+2025-03-30 22:53:26,238 - Robot_0 - INFO - Assigned task: moving to 0 via path [6, 11, 5, 4, 0]
+2025-03-30 22:53:30,322 - FleetManager - INFO - Robot 0 found new path to 0
+2025-03-30 22:53:30,446 - FleetManager - INFO - Robot 1 found new path to 5
+2025-03-30 22:53:48,939 - FleetManager - INFO - Spawned robot 2 at vertex 6
+2025-03-30 22:53:56,413 - Robot_2 - INFO - Assigned task: moving to 4 via path [6, 11, 5, 4]
+2025-03-30 22:54:10,339 - Robot_2 - INFO - Assigned task: moving to 3 via path [4, 0, 10, 1, 3]
+2025-03-30 22:54:13,487 - FleetManager - INFO - Spawned robot 3 at vertex 1
+2025-03-30 22:54:14,180 - FleetManager - INFO - Robot 2 found new path to 3
+2025-03-30 22:54:32,636 - FleetManager - INFO - Spawned robot 4 at vertex 6
+2025-03-30 22:54:41,021 - FleetManager - ERROR - No valid path from 1 to 2
+2025-03-30 22:54:51,013 - Robot_3 - INFO - Assigned task: moving to 2 via path [1, 3, 13, 2]

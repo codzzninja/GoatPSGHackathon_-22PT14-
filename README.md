@@ -31,7 +31,7 @@ Tkinter (usually included with Python),
 
 
 
-Please refer to Images file for the output screenshot and Video folder for the output video.
+Please refer to Images file for the output screenshot and Video folder for the output video, please download to view the video.
 
 
 
